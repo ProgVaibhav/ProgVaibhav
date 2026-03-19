@@ -4,14 +4,10 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Oxanium&weight=700&size=24&duration=2600&pause=800&color=00D4FF&center=true&vCenter=true&width=860&lines=🔱+FROM+CODE+TO+LEGACY;🧠+ML+Engineer+·+3D-CNN+·+LLMs+·+Chess+AI+·+Vision+Systems;🐍+Python+is+not+a+skill+—+it's+my+weapon+of+choice;📘+Published+Author+·+320+Pages+·+5★+·+66%2B+Reviews;🏢+Founder+·+Architect+·+Builder+of+Things+That+Matter;⚡+I+don't+build+demos.+I+architect+LEGACIES." />
-
-<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavgondaliya/)
 [![X](https://img.shields.io/badge/X%20%2F%20Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Vaibhav_0324)
 [![GitHub](https://img.shields.io/badge/GitHub-ProgVaibhav-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ProgVaibhav)
-<img src="https://komarev.com/ghpvc/?username=ProgVaibhav&style=for-the-badge&color=00D4FF&label=Profile+Views"/>
 
 </div>
 
@@ -195,37 +191,6 @@ class MLEngineer(Vaibhav):
 ![ThreatDetection](https://img.shields.io/badge/Threat_Detection_Pipelines-4F8EF7?style=for-the-badge)
 ![SecurityFirst](https://img.shields.io/badge/Security--First_Systems-4F8EF7?style=for-the-badge)
 
-</div>
-
----
-
-## `📊 GITHUB STATS`
-
-<div align="center">
-
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=ProgVaibhav&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=050A18&title_color=00D4FF&icon_color=4F8EF7&text_color=e0e0e0&ring_color=00D4FF" />
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgVaibhav&layout=compact&theme=tokyonight&hide_border=true&bg_color=050A18&title_color=00D4FF&text_color=e0e0e0&langs_count=8" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ProgVaibhav&theme=tokyonight&hide_border=true&background=050A18&ring=00D4FF&fire=4F8EF7&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=666666&currStreakNum=ffffff&sideNums=ffffff" />
-
-</div>
-
----
-
-## `🏆 TROPHY SHELF`
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ProgVaibhav&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</div>
-
----
-
-## `📈 ACTIVITY GRAPH`
-
-<div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ProgVaibhav&bg_color=050A18&color=00D4FF&line=4F8EF7&point=ffffff&area=true&hide_border=true&area_color=0D1F3C&title_color=00D4FF" />
 </div>
 
 ---
